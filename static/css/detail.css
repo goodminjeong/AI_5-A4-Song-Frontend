@@ -72,10 +72,6 @@
     width: 100%
 }
 
-.media-body {
-    width: 400px;
-}
-
 @media(max-width: 1180px) {
     .detail-box {
         flex-direction: column;
