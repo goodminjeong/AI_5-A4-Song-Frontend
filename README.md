@@ -1,4 +1,4 @@
-# DRF-Machine_Learning-Project-Song-Backend - <a href="https://github.com/goodminjeong/AI_5-A4-Song-Frontend">Frontend 바로가기!</a>
+# DRF-Machine_Learning-Project-Song-Frontend - <a href="https://github.com/goodminjeong/AI_5-A4-Song-Backend">Backend 바로가기!</a>
 DRF를 기반으로 Machine Learning 기능을 추가한 노래 추천 커뮤니티 사이트
 
 ## 🖥️ 프로젝트 소개 - <a href="https://www.notion.so/woongpang/S-A-35075ce26cb641379fca5fc4dbf8d151">S.A. 바로가기!</a>
